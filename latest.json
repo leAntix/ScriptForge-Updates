@@ -1,5 +1,11 @@
-Get-Content: 
-Line |
-   2 |  Get-Content -Raw release\latest.json
-     |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-     | Cannot find path 'C:\Users\dergo\Documents\Codex\2026-09-28\referenced-chatgpt-conversation-this-is-an\release\latest.json' because it does not exist.
+{
+  "version": "0.2.0",
+  "notes": "ScriptForge 0.2.0 update",
+  "pub_date": "2026-09-28T18:27:22.688Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUXNDYWVBcDJiNmpta1NYc1RlNytZeTlucy9renhHelQ4blFMUmR0OWpxZUxHU3Q5UFR4bUE5aFZDQ3ZSRy8vY0NvbVlKQlRkNmp6S0RhOVlsSG9IOFh5anVWUHJ3d3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjIwMDA1CWZpbGU6U2NyaXB0Rm9yZ2VfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCiszN0IyMVRlRjM1WDFyclVwRWZvZXk0a3BSdFZCckJwS01SV0xubzhjbnd1ajUrRGlsU3VFenNhZ3Jlb013NWlqY1JHL2pKTEQ4ZHg2TWczNElSc0RRPT0K",
+      "url": "https://github.com/leAntix/ScriptForge-Updates/releases/latest/download/ScriptForge-update-setup.exe"
+    }
+  }
+}
